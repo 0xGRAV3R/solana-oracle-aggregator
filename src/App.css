@@ -1,0 +1,61 @@
+html {
+  background-color: #452c63;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+}
+
+.App-header,
+main {
+  font-size: calc(10px + 2vmin);
+  color: rgb(225, 225, 225);
+}
+.App-header {
+  margin-top: 4rem;
+}
+
+main {
+  margin-top: 8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background: linear-gradient(
+    156.16deg,
+    rgba(166, 124, 255, 0.098) 4.4%,
+    hsla(0, 0%, 100%, 0.168) 98.57%
+  );
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  display: flex;
+  place-items: center;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.wrapper {
+  background: linear-gradient(103.49deg, #31a3fe -37.86%, #5c30db 55.88%);
+  border-radius: 1rem;
+  margin-left: 1rem;
+}
+.wrapper p {
+  font-weight: bold;
+  font-size: 22px;
+  padding: 0 1rem;
+}
+
+.logosvg {
+  margin-right: 10px;
+  height: 30px;
+  padding: 1rem;
+}
