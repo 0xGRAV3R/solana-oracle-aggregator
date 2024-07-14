@@ -20,7 +20,7 @@ To run this project locally, ensure you have Node.js installed on your machine.
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/0xgrav3r/solana-oracle-aggregator.git
+git clone https://github.com/0xGRAV3R/solana-oracle-aggregator.git
 ```
 
 ### 2. Navigate into the project directory:
